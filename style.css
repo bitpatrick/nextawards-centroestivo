@@ -1,0 +1,13 @@
+/**
+ * Theme Name: Nextawards Centro Estivo
+ * Template:   nextawards
+ * ...other header fields
+ */
+
+ .header {
+    backdrop-filter: blur(5px);
+    background: transparent;
+    display: block;
+    height: 40vh;
+    position: relative;
+ }
