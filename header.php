@@ -27,7 +27,7 @@
 
   <a class="skip-link screen-reader-text" href="#content"><?php _e('Skip to content', 'nextawards'); ?></a>
 
-  <header class="header" style="background: url('<?php echo header_image(); ?>') no-repeat center center; background-size: cover">
+  <header class="header">
 
     <?php if (esc_attr(get_theme_mod('nextawards_topbar_text', '')) != '') { ?>
       <div class="header__topbar">
